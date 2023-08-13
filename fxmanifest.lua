@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'QB-Stashes'
+description 'ls-stashes'
 version '1.0.0'
 
 shared_script 'config.lua'
